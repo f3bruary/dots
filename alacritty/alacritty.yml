@@ -1,0 +1,53 @@
+selection:
+  save_to_clipboard: true
+
+# Colors (Blood Moon)
+colors:
+  # Default colors
+  primary:
+    background: '0x0D0E0F'
+    foreground: '0xc5c8c6'
+
+  # Normal colors
+  normal:
+    black:   '0x1d1f21'
+    red:     '0xcc342b'
+    green:   '0x198844'
+    yellow:  '0xfba922'
+    blue:    '0x3971ed'
+    magenta: '0xa36ac7'
+    cyan:    '0x3971ed'
+    white:   '0xc5c8c6'
+
+  # Bright colors
+  bright:
+    black:   '0x969896'
+    red:     '0xcc342b'
+    green:   '0x198844'
+    yellow:  '0xfba922'
+    blue:    '0x3971ed'
+    magenta: '0xa36ac7'
+    cyan:    '0x3971ed'
+    white:   '0xffffff'
+
+    # Font configuration (changes require restart)
+font:
+  # The size to use.
+  size: 13
+  # The normal (roman) font face to use.
+  normal:
+    family: Inconsolata for Powerline
+    # Style can be specified to pick a specific face.
+    style: Regular
+
+  # The bold font face
+  bold:
+    family: Inconsolata for Powerline
+    # Style can be specified to pick a specific face.
+    style: Bold
+
+  # The italic font face
+  italic:
+    family: Inconsolata for Powerline
+    # Style can be specified to pick a specific face.
+    style: Italic
